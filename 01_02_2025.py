@@ -4,6 +4,7 @@ from numpy import random
 
 x = random.randint(1, 10, size = (100))
 
+
 count = 0
 cting = []
 for i in range(1, 11):
